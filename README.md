@@ -5,5 +5,6 @@
 - 🤔 I’m looking for help with building more complex applications
 - 💬 Ask me about React or any tech related questions
 - 📫 How to reach me: brandon.galloway2@gmail.com
+- 📝 Check out my medium profile [GitHub](http://github.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm pretty good at basketball.
